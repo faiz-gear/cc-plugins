@@ -1,0 +1,30 @@
+{
+  "name": "cc-plugins",
+  "owner": {
+    "name": "Lyle",
+    "email": "luyao9637@gmail.com",
+    "url": "https://github.com/faiz-gear/cc-plugins"
+  },
+  "metadata": {
+    "description": "Faiz gear comprehensive marketplace for Claude Code plugins",
+    "version": "1.0.0",
+    "homepage": "https://github.com/faiz-gear/cc-plugins",
+    "pluginRoot": "./plugins",
+    "totalPlugins": 1,
+    "skillsEnabled": 1,
+    "lastUpdated": "2025-11-26"
+  },
+   "plugins": [
+    {
+      "name": "fullstack-develop",
+      "description": "A collection of full-stack development commands, skills, agents, etc.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Lyle",
+        "email": "luyao9637@gmail.com"
+      },
+      "source": "./plugins/fullstack-develop",
+      "category": "development"
+    },
+  ]
+}
