@@ -6,25 +6,39 @@
     "url": "https://github.com/faiz-gear/cc-plugins"
   },
   "metadata": {
-    "description": "Faiz gear comprehensive marketplace for Claude Code plugins",
+    "description": "A Claude Code plugin marketplace for full-stack development",
     "version": "1.0.0",
     "homepage": "https://github.com/faiz-gear/cc-plugins",
     "pluginRoot": "./plugins",
     "totalPlugins": 1,
-    "skillsEnabled": 1,
+    "skillsEnabled": 3,
     "lastUpdated": "2025-11-26"
   },
-   "plugins": [
+  "plugins": [
     {
       "name": "fullstack-develop",
-      "description": "A collection of full-stack development commands, skills, agents, etc.",
+      "description": "A collection of full-stack development skills for frontend design and architecture",
       "version": "1.0.0",
       "author": {
         "name": "Lyle",
         "email": "luyao9637@gmail.com"
       },
       "source": "./plugins/fullstack-develop",
-      "category": "development"
-    },
+      "category": "development",
+      "skills": [
+        {
+          "name": "frontend-design-3d",
+          "description": "Create immersive 3D web experiences with Three.js, CSS 3D transforms, and interactive animations"
+        },
+        {
+          "name": "frontend-design-blur-grainy",
+          "description": "Create dreamy UI with glassmorphism, blur effects, soft gradients, and film grain textures"
+        },
+        {
+          "name": "nextjs-fullstack-architecture",
+          "description": "Build production-ready Next.js apps with T3 Stack (Supabase, tRPC, Drizzle, shadcn/ui)"
+        }
+      ]
+    }
   ]
 }
