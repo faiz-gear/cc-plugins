@@ -25,7 +25,11 @@
       },
       "source": "./plugins/fullstack-develop",
       "category": "development",
-      "skills": ["frontend-design-3d", "frontend-design-blur-grainy", "nextjs-fullstack-architecture"]
+      "skills": [
+        "./skills/frontend-design-3d",
+        "./skills/frontend-design-blur-grainy",
+        "./skills/nextjs-fullstack-architecture"
+      ]
     }
   ]
 }
