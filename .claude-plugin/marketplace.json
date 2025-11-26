@@ -25,20 +25,7 @@
       },
       "source": "./plugins/fullstack-develop",
       "category": "development",
-      "skills": [
-        {
-          "name": "frontend-design-3d",
-          "description": "Create immersive 3D web experiences with Three.js, CSS 3D transforms, and interactive animations"
-        },
-        {
-          "name": "frontend-design-blur-grainy",
-          "description": "Create dreamy UI with glassmorphism, blur effects, soft gradients, and film grain textures"
-        },
-        {
-          "name": "nextjs-fullstack-architecture",
-          "description": "Build production-ready Next.js apps with T3 Stack (Supabase, tRPC, Drizzle, shadcn/ui)"
-        }
-      ]
+      "skills": ["frontend-design-3d", "frontend-design-blur-grainy", "nextjs-fullstack-architecture"]
     }
   ]
 }
