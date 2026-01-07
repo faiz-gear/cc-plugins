@@ -1,0 +1,24 @@
+{
+  "language": "zh",
+  "authors": [],
+  "core": {
+    "mode": "auto",
+    "top_n": 2,
+    "projects": []
+  },
+  "project_context": {
+    "your-core-repo": "一句话业务背景（示例）：面向关键业务链路的核心系统，强调稳定性/可观测性/交付质量。"
+  },
+  "weighting": {
+    "core_multiplier": 3
+  },
+  "clustering": {
+    "max_themes": 10,
+    "min_commits_per_theme": 5
+  },
+  "writing_prefs": {
+    "tone": "professional",
+    "avoid_quant_exaggeration": true,
+    "output_markdown": true
+  }
+}
