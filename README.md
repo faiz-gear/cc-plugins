@@ -39,6 +39,7 @@ A collection of full-stack development skills for frontend design and architectu
 | `frontend-design-3d` | Create immersive 3D web experiences with Three.js, CSS 3D transforms, and interactive animations |
 | `frontend-design-blur-grainy` | Create dreamy UI with glassmorphism, blur effects, soft gradients, and film grain textures |
 | `nextjs-fullstack-architecture` | Build production-ready Next.js apps with T3 Stack (Supabase, tRPC, Drizzle, shadcn/ui) |
+| `git-annual-work-summary` | Generate yearly summaries of git activity across repositories: collect commits, analyze themes, and render reports (CLI with GitHub/GitLab/local collectors) |
 
 ## Usage
 
@@ -56,6 +57,10 @@ Once installed, skills activate automatically when you describe relevant tasks:
 # Fullstack Architecture
 "Set up a T3 stack project with Supabase"
 "Create a tRPC router for users"
+
+# Git Annual Summary
+"Generate an annual work summary for 2025"
+"Collect commits across repos and render a report"
 ```
 
 ## Author
